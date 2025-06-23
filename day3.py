@@ -27,6 +27,7 @@
 # print("The result after adding 5.5 is:", result)
 
 #basic arithmetic operators
+print("made changes")
 
 #+, -, *, /, % -> modulo operator
 
@@ -57,3 +58,4 @@ print((10 + 20) / 5 + 5 * 4)
 #6 + 20
 
 #this is some change from the feature branch
+print("changes")
